@@ -1,0 +1,47 @@
+.h1{
+    border: 3px solid black;
+    width: 70px;
+    height: 260px;
+    padding: 20px 25px 30px 40px;
+    border-radius: 20px;
+    background-color: black;
+}
+.m1{
+    border: 2px solid black;
+    width: 75px;
+    height: 75px;
+margin-left: -10px;
+    background-color: red;
+    border-radius: 75px;
+}
+.m2{
+border: 2px solid black;
+    width: 75px;
+    height: 75px;
+    margin-top:20px;
+    margin-left: -10px;
+    background-color:orange;
+    border-radius: 75px;
+}
+.m3{
+border: 2px solid black;
+    width: 75px;
+    height: 75px;
+    margin-top: 20px;
+    margin-left: -10px;
+    background-color: green;
+    border-radius: 50px;
+}
+.h2{
+background-color: black;
+height: 250px;
+width: 50px;
+margin-left: 45px;
+}
+.h3{
+background-color: black;
+height: 70px;
+width: 150px;
+margin-left: -5px;
+
+}
